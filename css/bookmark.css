@@ -1,0 +1,18 @@
+kbd{
+    width: 4em;
+    height: 4em;
+    display: inline-block;
+    border: 1px solid red;
+    margin: 1px;
+    position: relative;
+}
+
+kbd>button{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+#mainDiv{
+    text-align: center;
+}
