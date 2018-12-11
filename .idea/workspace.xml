@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18b0355a-0741-4574-85f8-b569de48f1d9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/bookmark.html" afterPath="$PROJECT_DIR$/bookmark.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/bookmark.css" afterPath="$PROJECT_DIR$/css/bookmark.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,21 +27,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bookmark.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bookmark.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/bookmark.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="65" column="75" lean-forward="false" selection-start-line="65" selection-start-column="75" selection-end-line="65" selection-end-column="75" />
+            <state relative-caret-position="242">
+              <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bookmark.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bookmark.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bookmark.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="90">
+              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -75,9 +76,9 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/resume.css" />
-        <option value="$PROJECT_DIR$/css/bookmark.css" />
         <option value="$PROJECT_DIR$/js/bookmark.js" />
         <option value="$PROJECT_DIR$/bookmark.html" />
+        <option value="$PROJECT_DIR$/css/bookmark.css" />
       </list>
     </option>
   </component>
@@ -87,8 +88,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="303" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="210" />
+    <option name="y" value="145" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
@@ -201,15 +203,15 @@
       <updated>1544006606213</updated>
       <workItem from="1544006608306" duration="592000" />
       <workItem from="1544349294314" duration="7815000" />
-      <workItem from="1544444129340" duration="9871000" />
+      <workItem from="1544444129340" duration="10732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18278000" />
+    <option name="totallyTimeSpent" value="19139000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="210" y="145" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -290,14 +292,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bookmark.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="65" column="75" lean-forward="false" selection-start-line="65" selection-start-column="75" selection-end-line="65" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/bookmark.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -308,8 +302,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bookmark.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="90">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bookmark.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
           <folding />
         </state>
       </provider>
